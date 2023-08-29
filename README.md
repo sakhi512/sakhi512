@@ -1,7 +1,7 @@
  <section id="masthead">
         <div id="branding" role="banner">
             <div class="topbar">
-                <h1 id="site-title"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx5DOo8Oz3AOSIaMUTknKQSCQnfGOZhMCfdg&usqp=CAU" width="1000" height="300" alt="Xmedia"></a></h1>
+                <h1 id="site-title"><a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx5DOo8Oz3AOSIaMUTknKQSCQnfGOZhMCfdg&usqp=CAU" width="1000" height="200" alt="Xmedia"></a></h1>
                
                
           
